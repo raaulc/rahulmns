@@ -3,6 +3,8 @@
 ## hello, this is Rahul Rathod aka raaulc (◕ ˬ ◕)
 ![github (1)](https://github.com/rahulmns/rahulmns/blob/main/header.png)
 
+<!-- ## streak 
+
 ## things i do
 
 * writing a weekly newsletter called [swiftbyraaulc](https://swiftbyraaulc.substack.com/) helping students navigate their career in tech.
@@ -11,7 +13,6 @@
 * designing & building innovative personal side projects.
 
 
-<!-- ## streak 
 ## projects i'm working on
 
 ## things i did previously
