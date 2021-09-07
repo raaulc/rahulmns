@@ -51,9 +51,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello, my name is Rahul Rathod. My pronouns are he/him/his. I'm an iOS Developer having more than 10 years of experience in swift, Right now working with M&S London. I have Developed native iOS apps ranging from simple education apps to Retail and Event Apps with millions of user-base, high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.
- 
-? Message me on <a href="https://www.linkedin.com/in/raaulc/">LinkedIn</a> or <a href="https://twitter.com/rahul_code">Twitter</a>. 
+    Hello, my name is Rahul Rathod. My pronouns are he/him/his. I'm an iOS Developer having more than 10 years of experience in swift, Right now working with M&S London. I have Developed native iOS apps ranging from simple education apps to Retail and Event Apps with millions of user-base, high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.Message me on <a href="https://www.linkedin.com/in/raaulc/">LinkedIn</a> or <a href="https://twitter.com/rahul_code">Twitter</a>. 
 </p>
 
 <!-- <hr />
